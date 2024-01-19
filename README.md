@@ -1,5 +1,5 @@
 # Hi there  👋
-![enter image description here](https://scontent.furt2-1.fna.fbcdn.net/v/t1.15752-9/262996069_359449342617894_2692490697835334359_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=ae9488&_nc_eui2=AeEhFittbdxSsouKd7aV30yPlWeHjRQeBdaVZ4eNFB4F1gKrBLZU4h6fqCzPg65lg9uVm1FQJYIag1-zJ-hVjPeu&_nc_ohc=hI9mgQBOqF8AX_lkpXS&_nc_ht=scontent.furt2-1.fna&oh=a721b2b166f00df0ccd08870993749dc&oe=61CE8D26)
+
 
 My name is Tatsapol Tamchauy , I'm a **Data Science student** at **Thammasat University**. You can see information about me below this.😀
 
