@@ -21,10 +21,9 @@ My name is Tatsapol Tamchauy , I'm a **Data Science student** at **Thammasat Uni
 
 **Bachelor Degree**👨‍💻
 
--Join **True lab startup sandbox SS2** and qualified for the final 4 teams
-
-## My certificate📜
-
-Here is what I was learn from **Coursera**.🧑🏼‍💻
-
-![](https://scontent.furt2-1.fna.fbcdn.net/v/t1.15752-9/262274585_295742149134302_3875728783406065806_n.png?_nc_cat=110&ccb=1-5&_nc_sid=ae9488&_nc_eui2=AeFe74I9GfZd3zq00LlbM3rPa_mlXO1svD5r-aVc7Wy8PrEdGRoHA0C_1mTx_6UUdn0FDTDVlDrbCQpGSsQhyNgC&_nc_ohc=_3NWnepLXMYAX959bdo&_nc_ht=scontent.furt2-1.fna&oh=c5b794ab3072b7de745bcc6101889cde&oe=61CFB963)
+-1st Runner-up: True Lab Startup Sandbox SS2
+-Full stack development project
+-Kaggle competition: Plant Seedlings Classification
+-Kaggle competition : Binary Classification with a Software Defects Dataset
+-Innovative drug treatment for canine cancer
+-Football player transfer prices prediction
