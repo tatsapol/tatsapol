@@ -22,8 +22,13 @@ My name is Tatsapol Tamchauy , I'm a **Data Science student** at **Thammasat Uni
 **Bachelor Degree**👨‍💻
 
 -1st Runner-up: True Lab Startup Sandbox SS2
+
 -Full stack development project
+
 -Kaggle competition: Plant Seedlings Classification
+
 -Kaggle competition : Binary Classification with a Software Defects Dataset
+
 -Innovative drug treatment for canine cancer
+
 -Football player transfer prices prediction
